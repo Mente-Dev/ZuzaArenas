@@ -489,7 +489,7 @@ section {
 }
 
 .section-bg {
-  background-color: #f6f7f6;
+  background-color: #FFFFFF  !important;
 }
 
 .section-title {
