@@ -479,6 +479,10 @@ a:hover {
 /*--------------------------------------------------------------
 # Sections General
 --------------------------------------------------------------*/
+section:nth-child(2n) {
+  background-color: #f6f7f6;
+}
+
 section {
   padding: 60px 0;
   overflow: hidden;
