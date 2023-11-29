@@ -2,11 +2,6 @@
   font-family: comfortaa;
   src: url(../fonts/comfortaa.ttf);
 }
-@font-face {
-  font-family: montserrat;
-  src: url(../fonts/montserrat.ttf);
-}
-
 
 * {
   font-family: 'comfortaa', sans-serif;
