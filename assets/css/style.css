@@ -829,6 +829,7 @@ section {
 .trainers .member img {
     max-width: 100%;
     object-fit: contain;
+    aspect-ratio: 1;
 }
 .trainers .member h4 {
   font-weight: 700;
